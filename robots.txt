@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /piwik/
+Disallow: /data/
+Disallow: /OSM/data/
+Disallow: /radrouten/gpx/
+Disallow: /cgi-bin/
